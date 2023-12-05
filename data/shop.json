@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Araxys Vandal",
+        "episode": "Revelation",
+        "collection": "Araxys",
+        "price": 2175,
+        "img": "img/araxys.webp"
+    },
+    {
+        "id": 2,
+        "title": "Champions 2023 Vandal",
+        "episode": "Evolution",
+        "collection": "Champions 2023",
+        "price": 2675,
+        "img": "img/champions.webp"
+    },
+    {
+        "id": 3,
+        "title": "Neptune Vandal",
+        "episode": "Disruption",
+        "collection": "Neptune",
+        "price": 1775,
+        "img": "img/neptune.webp"
+    },
+    {
+        "id": 4,
+        "title": "Reaver Vandal",
+        "episode": "Ignition",
+        "collection": "Reaver",
+        "price": 1775,
+        "img": "img/reaver.webp"
+    },
+    {
+        "id": 5,
+        "title": "Sandswept Vandal",
+        "episode": "Evolution",
+        "collection": "Sandswept",
+        "price": 875,
+        "img": "img/sandswept.webp"
+    },
+    {
+        "id": 6,
+        "title": "Sentiels of the Light Vandal",
+        "episode": "Reflection",
+        "collection": "Sentiels of the Light",
+        "price": 2175,
+        "img": "img/sol.webp"
+    },
+    {
+        "id": 7,
+        "title": "Valiant Hero Vandal",
+        "episode": "Evolution",
+        "collection": "Valiant Hero",
+        "price": 1775,
+        "img": "img/VH.webp"
+    },
+    {
+        "id": 8,
+        "title": "Gaia's Vengeance Vandal",
+        "episode": "Disruption",
+        "collection": "Gaia's Vengeance",
+        "price": 1775,
+        "img": "img/GV.webp"
+    },
+    {
+        "id": 9,
+        "title": "Imperium Vandal",
+        "episode": "Evolution",
+        "collection": "Imperium",
+        "price": 2175,
+        "img": "img/imperium.webp"
+    },
+    {
+        "id": 10,
+        "title": "Magepunk Vandal",
+        "episode": "Revelation",
+        "collection": "Magepunk",
+        "price": 1775,
+        "img": "img/magepunk.webp"
+    }
+  ]
