@@ -15,7 +15,7 @@ async function getResponce() {
     for (let i = 0; i < content.length; i++) {
         node_for_insert.innerHTML += `
         <li style="width: 210px" class="d-flex flex-column m-1 p-1 border bg-body">
-        <img style="width: 180px" class="align-self-center" src=${content[i].img}>
+        <img style="width: 180px" title =${content[i].title} class="align-self-center" src=${content[i].img}>
         <h5 class="card-title">${content[i].title}</h5>
         <p class="card-text">${content[i].episode}. Цена ${content[i].price} ₽</p>
         <input type="hidden" name= "choice" value=${content[i].title}>
