@@ -19,7 +19,7 @@ async function getResponce() {
         <h5 class="card-title">${content[i].title}</h5>
         <p class="card-text">${content[i].episode}. Цена ${content[i].price} ₽</p>
         <input type="hidden" name= "choice" value=${content[i].title}>
-        <p class="card-text" >Заказать <input class="w-25" type="checkbox" name="choice" value="checked"></p>
+        <p class="card-text" >Купить <input class="w-25" type="checkbox" name="choice" value="checked"></p>
         </li>`
     }
 }
